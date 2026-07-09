@@ -9,3 +9,4 @@ D:\net\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.dl
 D:\net\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\refint\Inventory.Domain.dll
 D:\net\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.pdb
 D:\net\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\ref\Inventory.Domain.dll
+D:\net\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.sourcelink.json

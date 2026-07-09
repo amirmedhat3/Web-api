@@ -141,3 +141,4 @@ D:\net\InventoryManagement\Inventory.API\obj\Debug\net8.0\refint\Inventory.API.d
 D:\net\InventoryManagement\Inventory.API\obj\Debug\net8.0\Inventory.API.pdb
 D:\net\InventoryManagement\Inventory.API\obj\Debug\net8.0\Inventory.API.genruntimeconfig.cache
 D:\net\InventoryManagement\Inventory.API\obj\Debug\net8.0\ref\Inventory.API.dll
+D:\net\InventoryManagement\Inventory.API\obj\Debug\net8.0\Inventory.API.sourcelink.json

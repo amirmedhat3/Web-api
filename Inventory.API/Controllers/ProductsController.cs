@@ -15,12 +15,8 @@ public class ProductsController : ControllerBase
         _repository = repository;
     }
 
-//GET /api/products
-//GET /api/products/{id}
-//POST /api/products
-//PUT /api/products/{id}
-//DELETE /api/products/{id}
 
+//GET /api/products
     [HttpGet]
     public async Task<IActionResult> GetAll()
     {
@@ -28,6 +24,7 @@ public class ProductsController : ControllerBase
         return Ok(products);
     }
 
+//GET /api/products/{id}
     [HttpGet("{id}")]
 public async Task<IActionResult> GetById(int id)
 {
@@ -38,6 +35,8 @@ public async Task<IActionResult> GetById(int id)
 
     return Ok(product);
 }
+
+//POST /api/products
 [HttpPost]
 public async Task<IActionResult> Add(Product product)
 {
@@ -45,7 +44,7 @@ public async Task<IActionResult> Add(Product product)
     return Ok(product);
 }
 
-
+//PUT /api/products/{id}
 [HttpPut("{id}")]
 public async Task<IActionResult> Update(int id, Product product)
 {
@@ -55,6 +54,8 @@ public async Task<IActionResult> Update(int id, Product product)
     await _repository.UpdateAsync(product);
     return Ok(product);
 }
+
+//DELETE /api/products/{id}
 [HttpDelete("{id}")]
 public async Task<IActionResult> Delete(int id)
 {

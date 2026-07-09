@@ -15,3 +15,4 @@ D:\net\InventoryManagement\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.I
 D:\net\InventoryManagement\Inventory.Infrastructure\obj\Debug\net8.0\refint\Inventory.Infrastructure.dll
 D:\net\InventoryManagement\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.pdb
 D:\net\InventoryManagement\Inventory.Infrastructure\obj\Debug\net8.0\ref\Inventory.Infrastructure.dll
+D:\net\InventoryManagement\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.sourcelink.json
