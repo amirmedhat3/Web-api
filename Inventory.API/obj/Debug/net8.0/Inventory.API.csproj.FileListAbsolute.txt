@@ -142,3 +142,8 @@ D:\net\InventoryManagement\Inventory.API\obj\Debug\net8.0\Inventory.API.pdb
 D:\net\InventoryManagement\Inventory.API\obj\Debug\net8.0\Inventory.API.genruntimeconfig.cache
 D:\net\InventoryManagement\Inventory.API\obj\Debug\net8.0\ref\Inventory.API.dll
 D:\net\InventoryManagement\Inventory.API\obj\Debug\net8.0\Inventory.API.sourcelink.json
+D:\net\InventoryManagement\Inventory.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\net\InventoryManagement\Inventory.API\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\net\InventoryManagement\Inventory.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\net\InventoryManagement\Inventory.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\net\InventoryManagement\Inventory.API\bin\Debug\net8.0\System.Formats.Asn1.dll
